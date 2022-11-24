@@ -19,8 +19,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "^9",
-        "php": "^8.0Cga"
+        "illuminate/support": "^9.0",
+        "php": "^8.0"
     },
     "require-dev": {
         "larapack/dd": "^1.0",
