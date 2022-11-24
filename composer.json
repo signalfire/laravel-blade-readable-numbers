@@ -1,5 +1,5 @@
 {
-    "name": "sandervanhooft/laravel-blade-readable-numbers",
+    "name": "signalfire/laravel-blade-readable-numbers",
     "description": "A blade directive for human readable numbers, k-style.",
     "keywords": [
         "Sander van Hooft",
